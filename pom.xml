@@ -10,7 +10,7 @@
     </parent>
     <groupId>kd.dev</groupId>
     <artifactId>transaction-spring-batch</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0.0-release</version>
     <name>transaction-spring-batch</name>
     <description>Demo project for Spring Boot</description>
 
